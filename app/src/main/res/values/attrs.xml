@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyCheckedTextView">
+        <attr name="is_enabled" format="boolean" />
+        <attr name="drawable_position"/>
+        <attr name="src_enabled" format="integer" />
+        <attr name="src_disabled" format="integer" />
+    </declare-styleable>
+</resources>
